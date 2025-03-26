@@ -1,5 +1,5 @@
 // Use relative path to JSON file
-const jsonUrl = 'books.json';
+const jsonUrl = 'https://rittanbajwa.github.io/JS_ASSIGNMENT4/';
 
 function fetchBooks() {
     return new Promise((resolve, reject) => {
